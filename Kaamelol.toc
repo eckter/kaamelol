@@ -1,0 +1,5 @@
+## Interface: 80300
+## Title: Kaamelol
+## Version: 0.0.1
+## Author: Eckter
+Kaamelol.lua
