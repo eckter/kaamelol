@@ -30,11 +30,25 @@ function kaamelol_broadcast(msg)
     return true
 end
 
+function kaamelol_search(msg)
+	for i, entry in ipairs(KAAMELOL_CONTENT) do
+		local title = entry["TITLE"]
+		local file = entry["FILE"]
+
+		if string.find(string.upper(title), string.upper(msg)) then
+			print(file, ":", title)
+		end
+	end
+    return true
+end
+
 function kaamelol_run_command(cmd, args)
     if cmd == "play" then
         return kaamelol_play(args)
     elseif cmd == "broad" then
 		return kaamelol_broadcast(args)
+	elseif cmd == "search" then
+		return kaamelol_search(args)
 	else
 		return false
 	end
