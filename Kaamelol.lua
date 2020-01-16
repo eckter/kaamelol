@@ -3,6 +3,8 @@ local frame_name = addon_name .. "Frame"
 local frame = CreateFrame("Frame", frame_name)
 local cmd_name = "/kaamelol"
 
+C_ChatInfo.RegisterAddonMessagePrefix(addon_name)
+
 frame:RegisterEvent("CHAT_MSG_ADDON")
 
 frame:SetScript("OnEvent", function(self, event_name, ...)
@@ -49,7 +51,6 @@ end
 
 function frame:CHAT_MSG_ADDON(event, prefix, msg)
 	if prefix == addon_name then
-		print(msg)
 		kaamelol_play(msg)
 	end
 end
