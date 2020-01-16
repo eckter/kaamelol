@@ -19,24 +19,38 @@ function kaamelol_play(msg)
 end
 
 function kaamelol_broadcast(msg)
+	if not msg or msg == "" then
+		return false
+	end
+
     chan, rest = strsplit(" ", msg, 2)
-	chan = string.upper(chan)
-	if chan == "WHISPER" then
-		target, rest = strsplit(" ", rest, 2)
+	if not rest then
+		rest = chan
+		chan = "GUILD"
 	else
-		target = ""
+		chan = string.upper(chan)
+		if chan == "WHISPER" then
+			target, rest = strsplit(" ", rest, 2)
+		else
+			target = ""
+		end
+	end
+	number = tonumber(rest)
+	if number then
+		rest = KAAMELOL_CONTENT[number]["FILE"]
 	end
 	C_ChatInfo.SendAddonMessage(addon_name, rest, chan, target);
     return true
 end
 
 function kaamelol_search(msg)
+	print("\nresults:")
 	for i, entry in ipairs(KAAMELOL_CONTENT) do
 		local title = entry["TITLE"]
 		local file = entry["FILE"]
 
 		if string.find(string.upper(title), string.upper(msg)) then
-			print(file, ":", title)
+			print(i, file, ":", title)
 		end
 	end
     return true
@@ -50,7 +64,7 @@ function kaamelol_run_command(cmd, args)
 	elseif cmd == "search" then
 		return kaamelol_search(args)
 	else
-		return false
+		return kaamelol_broadcast(cmd)
 	end
 end
 
