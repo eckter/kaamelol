@@ -2,6 +2,7 @@
 local frame_name = addon_name .. "Frame"
 local frame = CreateFrame("Frame", frame_name)
 local cmd_name = "/kaamelol"
+local cmd_name2 = "/kl"
 
 C_ChatInfo.RegisterAddonMessagePrefix(addon_name)
 
@@ -57,11 +58,11 @@ function kaamelol_search(msg)
 end
 
 function kaamelol_run_command(cmd, args)
-    if cmd == "play" then
+    if cmd == "play" or cmd == "p" then
         return kaamelol_play(args)
-    elseif cmd == "broad" then
+    elseif cmd == "broad" or cmd == "b" then
 		return kaamelol_broadcast(args)
-	elseif cmd == "search" then
+	elseif cmd == "search" or cmd == "s" then
 		return kaamelol_search(args)
 	else
 		return kaamelol_broadcast(cmd)
@@ -69,6 +70,7 @@ function kaamelol_run_command(cmd, args)
 end
 
 SLASH_KAAMELOL1 = cmd_name
+SLASH_KAAMELOL2 = cmd_name2
 SlashCmdList["KAAMELOL"] = function(msg)
     cmd, args = strsplit(" ", msg, 2)
     if not kaamelol_run_command(cmd, args) then
