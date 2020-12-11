@@ -78,7 +78,10 @@ SLASH_KAAMELOL2 = cmd_name2
 SlashCmdList["KAAMELOL"] = function(msg)
     cmd, args = strsplit(" ", msg, 2)
     if not kaamelol_run_command(cmd, args) then
-        print(addon_name .. " usage:")
+        print("Commandes de " .. addon_name .. " :")
+        print("/kl s pas faux: recherche une citation à partir de l'extrait 'pas faux', pour retrouver son numéro")
+		print("/kl 31: joue la citation numéro 31 à la guilde")
+		print("Pour des commandes plus poussées, demandez à Eckter")
     end
 end
 
