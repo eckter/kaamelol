@@ -51,7 +51,11 @@ function kaamelol_search(msg)
 		local file = entry["FILE"]
 
 		if string.find(string.upper(title), string.upper(msg)) then
-			print(i, file, ":", title)
+			max_length = 256
+			if string.len(title) > max_length then
+				title = string.sub(title, 1, max_length) .. '...'
+			end
+			print(i, ":", title)
 		end
 	end
     return true
