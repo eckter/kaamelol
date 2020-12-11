@@ -45,6 +45,9 @@ function kaamelol_broadcast(msg)
 end
 
 function kaamelol_search(msg)
+  if not msg or msg == "" then
+    return false
+  end
   print("\nresults:")
   for i, entry in ipairs(KAAMELOL_CONTENT) do
     local title = entry["TITLE"]
