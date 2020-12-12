@@ -2434,5 +2434,97 @@ KAAMELOL_CONTENT = {
   {
     FILE="nan-ca-va-pas-etre-possible-ca",
     TITLE="Nan ça va pas être possible ça"
+  },
+  {
+    FILE="il_avait_les_plans_du_v2",
+    TITLE="Il avait les plans du v2 !"
+  },
+  {
+    FILE="pas_seulement_un_lache",
+    TITLE="Tu n'es pas seulement un lâche, tu es un traître, comme ta petite taille le laissait deviner"
+  },
+  {
+    FILE="jaime_pas_trop_beaucoup_ca",
+    TITLE="J'aime pas trop beaucoup ça..."
+  },
+  {
+    FILE="hue_cannabis",
+    TITLE="Hue, cannabis !"
+  },
+  {
+    FILE="cest_une_bonne_situation",
+    TITLE="C'est une bonne situation ça, scribe ?"
+  },
+  {
+    FILE="des_milions",
+    TITLE="Des milions ? Des milions, vous êtes charmantes, vous voyez déjà ce que ça fait un milion ?"
+  },
+  {
+    FILE="petit_coup_de_polish",
+    TITLE="À l'occasion je vous metterai un petit coup de polish"
+  },
+  {
+    FILE="jaime_me_battre",
+    TITLE="J'aime me battre"
+  },
+  {
+    FILE="grandire",
+    TITLE="S'agirait de grandire... (x2)"
+  },
+  {
+    FILE="mauvais_role",
+    TITLE="C'est marrant c'est toujours les nazis qui ont le mauvais rôle"
+  },
+  {
+    FILE="23-0",
+    TITLE="23-0 ! C'est la piquette, Jack ! Tu sais pas jouer, Jack ! T'es mauvais !"
+  },
+  {
+    FILE="il_la_dit",
+    TITLE="En effet, il l'a dit....... Il l'a dit."
+  },
+  {
+    FILE="jure_que_non",
+    TITLE="Mais non, je vous jure que non, j'ai même longtemps vécu en Cochinchine"
+  },
+  {
+    FILE="faisons_comme_ca",
+    TITLE="D'accord. Faisons comme ça."
+  },
+  {
+    FILE="theorie",
+    TITLE="Oui, je connais cette théorie oui"
+  },
+  {
+    FILE="sorti_de_son_contexte",
+    TITLE="Sorti de son contexte, un doigt dans les fesses, ça peut être euh..."
+  },
+  {
+    FILE="rigolo",
+    TITLE="Si ça c'est rigolo hein"
+  },
+  {
+    FILE="cest_pas_moi",
+    TITLE="C'est pas moi. C'est qui alors ? J'ai vu, je sais qui c'est, mais je dirai rien"
+  },
+  {
+    FILE="pas_de_bonne_mauvaise_situation_complet",
+    TITLE="Mais vous savez moi je crois pas qu'il y ait de bonne ou de mauvaise situation (complet, c'est long)"
+  },
+  {
+    FILE="pas_de_bonne_mauvaise_situation",
+    TITLE="Mais vous savez moi je crois pas qu'il y ait de bonne ou de mauvaise situation (court)"
+  },
+  {
+    FILE="quebec_libre",
+    TITLE="Vive le Québec libre !"
+  },
+  {
+    FILE="jeanne",
+    TITLE="Jeanne ! Au secours !"
+  },
+  {
+    FILE="humour_juif",
+    TITLE="Ah bah c'est très curieux ça, ma foi sans le vouloir, j'ai l'impression que j'ai fait de l'humour juif"
   }
 }
