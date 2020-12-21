@@ -1,6 +1,6 @@
 ## Interface: 80300
 ## Title: Kaamelol
-## Version: 1.0.0
+## Version: 1.0.2
 ## Author: Eckter
 Kaamelol.lua
 content.lua
