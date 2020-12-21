@@ -4,18 +4,6 @@ KAAMELOL_CONTENT = {
     TITLE="Interprète"
   },
   {
-    FILE="oui-templier-noir",
-    TITLE="zerator: oui"
-  },
-  {
-    FILE="cest-non",
-    TITLE="Lepers: C'est non"
-  },
-  {
-    FILE="mais-oui-cest-clair-by-eddy-malou",
-    TITLE="Eddy malou: mais oui c'est clair"
-  },
-  {
     FILE="je_ne_mange_pas_de_graines",
     TITLE="JE NE MANGE PAS DE GRAINES"
   },
@@ -2862,5 +2850,17 @@ KAAMELOL_CONTENT = {
   {
     FILE="ddn-a-force-de-dire-des-conneries-tes-xp-sont-dans-les-negatifs",
     TITLE="DDN A force de dire des conneries, tes xp sont certainement dans les négatifs"
+  },
+  {
+    FILE="oui-templier-noir",
+    TITLE="zerator: oui"
+  },
+  {
+    FILE="cest-non",
+    TITLE="Lepers: C'est non"
+  },
+  {
+    FILE="mais-oui-cest-clair-by-eddy-malou",
+    TITLE="Eddy malou: mais oui c'est clair"
   }
 }
