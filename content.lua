@@ -2539,4 +2539,328 @@ KAAMELOL_CONTENT = {
     FILE="humour_juif",
     TITLE="Ah bah c'est très curieux ça, ma foi sans le vouloir, j'ai l'impression que j'ai fait de l'humour juif"
   }
+  {
+    FILE="ddn-je-suis-un-nain-connasse",
+    TITLE="DDN Je suis un nain connasse"
+  }
+  {
+    FILE="ddn-est-ce-que-vous-avez-bien-tous-votre-equipement",
+    TITLE="DDN est-ce que vous avez bien tout votre equipement? etc"
+  }
+  {
+    FILE="ddn-il-a-envie-de-chier",
+    TITLE="DDN Il a envie de chier"
+  }
+  {
+    FILE="ddn-akalamiammiam",
+    TITLE="DDN Akala Miam-Miam"
+  }
+  {
+    FILE="ddn-rien-que-pour-l'emmerder-je-vais-rester",
+    TITLE="DDN T'as raison, rien que pour l'emmerder je vais rester"
+  }
+  {
+    FILE="ddn-je-frappe-pour-quon-vienne-nous-ouvrir",
+    TITLE="DDN Et bien, je frappe pour qu'on vienne nous ouvrir"
+  }
+  {
+    FILE="ddn-ca-chlingue-logre-a-chie-a-2-m-de-la-porte",
+    TITLE="DDN ça schlingue! c'est normal, l'ogre a chié à 2 mètres de la porte"
+  }
+  {
+    FILE="ddn-comme-monstres-on-peut-trouver--des-raviolis",
+    TITLE="DDN Comme monstres on peut trouver des orcs,.... des éponges et des raviolis"
+  }
+  {
+    FILE="ddn-il-dit-quil-temmerde",
+    TITLE="DDN Il dit qu'il t'emmerde"
+  }
+  {
+    FILE="ddn-droite-gauche-en-arriere-on-va-a-droite",
+    TITLE="DDN tout droit, à gauche, à droite, en arrière"
+  }
+  {
+    FILE="ddn-je-suis-nyctalope-salope",
+    TITLE="DDN Je suis nyctalope, je savais bien que t'étais une salope"
+  }
+  {
+    FILE="ddn-pourquoi-tu-lui-marche-sur-la-main",
+    TITLE="DDN pourquoi tu lui marches sur la main?"
+  }
+  {
+    FILE="ddn-prononcer-lallocution-habituelle-des-situations-desastreuses",
+    TITLE="DDN prononcer l'allocution habituelle des situations désastreuses. Merde"
+  }
+  {
+    FILE="ddn-jen-ai-plein-le-cul",
+    TITLE="DDN J'en ai plein le cul"
+  }
+  {
+    FILE="ddn-je-vais-pisser",
+    TITLE="DDN Excusez-moi mais je vais pisser"
+  }
+  {
+    FILE="ddn-on-est-cerne-par-les-incapables",
+    TITLE="DDN On est cerné par les incapables ici"
+  }
+  {
+    FILE="ddn-tu-veux-sonner-lalerte-deja-fait-connasse-elfe-frappe-a-la-porte",
+    TITLE="DDN Et merde, tu veux donner l'alerte? c'est déja  fait, cette connasse d'elfe a frappé à la porte"
+  }
+  {
+    FILE="ddn-cest-de-la-merde-ta-magie",
+    TITLE="DDN C'est de la merde ta magie!"
+  }
+  {
+    FILE="ddn-la-piece-fait-6m-55-et-la-hauteur-sous-plafond",
+    TITLE="DDN La pièce fait 6 mètres 55 et la hauteur au plafond etc..."
+  }
+  {
+    FILE="ddn-le-voleur-va-passer-en-premier-pour-detecter-les-pieges",
+    TITLE="DDN le voleur va passer en premier pour détecter les pièges"
+  }
+  {
+    FILE="ddn-1m-2m-3m-4m",
+    TITLE="DDN 1 mètre, 2m, 3m, 4m, 6m"
+  }
+  {
+    FILE="ddn-il-va-nous-emcombrer-de-toute-facon-cest-un-connard",
+    TITLE="DDN Il va nous encombrer. De toute façon c'est un connard"
+  }
+  {
+    FILE="ddn-cest-moche-affreux-abominable-jai-soif",
+    TITLE="DDN c'est moche, c'est affreux, c'est abominable, j'ai soif"
+  }
+  {
+    FILE="ddn-cest-ecrit-en-moriak",
+    TITLE="DDN C'est écrit en moriak des collines de l'est"
+  }
+  {
+    FILE="ddn-et-merde-qui-a-sonne",
+    TITLE="DDN et merde, qui a sonné?"
+  }
+  {
+    FILE="ddn-il-a-qua-faire-son-picnic-pendant-quon-scasse-le-cul-a-trouver-des-solutions",
+    TITLE="DDN Il n'a qu'a faire son picnic pendant qu'on se casse le cul à trouver des solutions"
+  }
+  {
+    FILE="ddn-moi-je-vais-fouiller-la-vendeuse",
+    TITLE="DDN moi je vais fouiller la vendeuse"
+  }
+  {
+    FILE="ddn-il-a-trtouve-la-reserve-de-biere",
+    TITLE="DDN il a trouvé la reserve de bière"
+  }
+  {
+    FILE="ddn-donne-la-cle-non-aie",
+    TITLE="DDN donne la clé! non! aïe!"
+  }
+  {
+    FILE="ddn-hahaha-je-vous-ai-bien-nike-signe-zangdar",
+    TITLE="DDN Hahaha je vous ai bien niqué, c'est signé Zangdar"
+  }
+  {
+    FILE="ddn-elle-ira-pas-loin-a-poil-dans-un-donjon",
+    TITLE="DDN Elle ira pas loin, a poil dans un donjon"
+  }
+  {
+    FILE="ddn-quel-est-cet-objet-cest-un-vase-en-bronze",
+    TITLE="DDN Quel est cet objet? ça c'est un vase en bronze"
+  }
+  {
+    FILE="ddn-cest-une-tete-dours-empaillee",
+    TITLE="DDN ça c'est une tête d'ours empaillée. ça vaut au moins 10 pièces d'or!"
+  }
+  {
+    FILE="ddn-si-tu-me-tire-dessus-tu-pourras-plus-macher-une-salade",
+    TITLE="DDN si tu me tires dessus, tu pourras plus jamais macher une salade"
+  }
+  {
+    FILE="ddn-baston",
+    TITLE="DDN Baston !"
+  }
+  {
+    FILE="ddn-il-dit-quon-va-se-faire-defoncer-la-gueule",
+    TITLE="DDN Il dit qu'on va se faire défoncer la gueule"
+  }
+  {
+    FILE="ddn-si-je-meurs-apres-avoir-fait-la-ruse-khrom-rira-de-moi",
+    TITLE="DDN Si je meurs après avoir fait la ruse, Crôm rira de moi et me jettera hors du Valhalla"
+  }
+  {
+    FILE="ddn-prenez-vos-positions-pour-combattre",
+    TITLE="DDN Prenez vos positions, nous avons des créatures à combattre. C'est quoi nos positions? etc..."
+  }
+  {
+    FILE="ddn-il-dit-quil-na-jamais-vu-des-tares-comme-nous",
+    TITLE="DDN Il dit qu'il n'a jamais vu des tarés comme nous"
+  }
+  {
+    FILE="ddn-jte-le-vends-10po-enfoire",
+    TITLE="DDN d'accord, je te le vends 10 pièces d'or. Enfoiré. Avec une réduc de 10% parceque t'es sympa"
+  }
+  {
+    FILE="ddn-bonjour-troll-nous-amis",
+    TITLE="DDN Bonjour, Troll, nous amis"
+  }
+  {
+    FILE="ddn-aller-la-chercher-vasy-toi-meme-jsuis-pas-ton-chien",
+    TITLE="DDN Aller la chercher ! vas-y toi-meme je suis pas ton chien. J'ai envie de me pendre"
+  }
+  {
+    FILE="ddn-il-veut-manger-lelfe",
+    TITLE="DDN Il veut manger l'elfe"
+  }
+  {
+    FILE="ddn-je-crois-que-votre-amis-a-tres-faim",
+    TITLE="DDN Je crois que votre amis à très faim. Mais non, il a toujours faim"
+  }
+  {
+    FILE="ddn-narrateur-la-situation-degenere-lorsque-le-groupe-tente-de-sortir-de-la-taverne-sans-payer",
+    TITLE="DDN La situation dégénère losque le groupe tente discrèttetment de s'enfuire de la taverne sans payer"
+  }
+  {
+    FILE="ddn-ca-pue-mais-non-cest-mes-pieds",
+    TITLE="DDN ça schlingue ! Mais non, c'est mes pieds. Ce peuple à l'air charmand"
+  }
+  {
+    FILE="ddn-les-histoires-de-cul-qui-commencent",
+    TITLE="DDN Les histoires de cul qui commencent"
+  }
+  {
+    FILE="ddn-bonne-nuit-les-amis",
+    TITLE="DDN Bonne nuit, les amis ! Bonne nuit, Vos gueules !"
+  }
+  {
+    FILE="ddn-il-y-a-une-chose-froide-dans-ma-culotte",
+    TITLE="DDN Il y a une chose froide dans ma culotte"
+  }
+  {
+    FILE="ddn-elle-est-nue-sous-sa-chemise",
+    TITLE="DDN Elle est nue sous sa chemine la petite cochonne"
+  }
+  {
+    FILE="ddn-cest-pas-facile-de-dormir-a-cote-dune-allumeuse",
+    TITLE="DDN C'est pas facile de dormir à coté d'une allumeuse"
+  }
+  {
+    FILE="ddn-bienvenue-au-paradis-des-nains",
+    TITLE="DDN Bienvenue au paradis des nains"
+  }
+  {
+    FILE="ddn-tagazok-a-toi",
+    TITLE="DDN Tagazok à toi mon frère"
+  }
+  {
+    FILE="ddn-paradis-les-elfes-frapper-essuyer-les-pieds-sur-leur-visage",
+    TITLE="DDN Paradis des nains: Les elfes, tu  peux les frapper, ou t'essuyer les pieds sur leur visage"
+  }
+  {
+    FILE="ddn-ca-y-est-notre-compagnon-est-sauve",
+    TITLE="DDN Notre compagnon est sauvé, je sais pas si c'est une bonne chose"
+  }
+  {
+    FILE="ddn-il-est-devenu-encore-plus-con",
+    TITLE="DDN Je crois qu'il est devenu encore plus con"
+  }
+  {
+    FILE="ddn-est-ce-que-tu-as-rencontre-khrom",
+    TITLE="DDN Est-ce que ttu as rencontré Crôm? Faut pas insulter Crôm"
+  }
+  {
+    FILE="ddn-j'ai-une-mauvaise-nouvelle",
+    TITLE="DDN J'ai une mauvaise nouvelle"
+  }
+  {
+    FILE="ddn-ogre-guitariste-promene-nu-couloirs",
+    TITLE="DDN On a un ogre guitariste qui se promène tout nu dans les couloirs"
+  }
+  {
+    FILE="ddn-moi-je-bois-toi-tu-pars-te-faire-fouetter",
+    TITLE="DDN Moi je bois, toi tu pars te faire fouetter"
+  }
+  {
+    FILE="ddn-la-magie-cest-bon-pour-les-femmes",
+    TITLE="DDN La magie, c'est bon pour les femmes"
+  }
+  {
+    FILE="ddn-le-barbare-a-lair-de-forte-mechante-humeur-casser-un-bras",
+    TITLE="DDN Le barbare a l'air de forte méchant humeur. ça ira mieux quand je t'aurais cassé un bras"
+  }
+  {
+    FILE="ddn-il-a-ete-brule-au-28e-degre",
+    TITLE="DDN il a été brulé au 28 ème degré"
+  }
+  {
+    FILE="ddn-il-y-a-que-des-objets-pourraves-dans-cette-tour-a-la-con",
+    TITLE="DDN Il y a que des objets pourraves dans cette tour a la con"
+  }
+  {
+    FILE="ddn-cest-ca-dittes-que-jai-pas-de-talent-cest-exactement-ce-que-je-dis",
+    TITLE="DDN C'estt ça, dites que j'ai pas de talent. C'est exactement ce que je dis"
+  }
+  {
+    FILE="ddn-poulet-poulet-piou",
+    TITLE="DDN Poulet, poulet ! Piou, piou, piou !"
+  }
+  {
+    FILE="ddn-je-prefere-embrasser-lcul-dun-orc",
+    TITLE="DDN Je prèfère embrasser le cul d'un orc"
+  }
+  {
+    FILE="ddn-combien-de-nains-creuser-tunnel-28m-granit",
+    TITLE="DDN Combien de nains faut il pour creuser un tunnel de 28 mètres dans du granit?"
+  }
+  {
+    FILE="ddn-il-est-desert-ce-dj-cest-vrai-on-se-croierai-dans-le-cerveau-dun-elfe",
+    TITLE="DDN Il est désert ce donjon. C'est vrai, on se croierai dans le cerveau d'un elfe"
+  }
+  {
+    FILE="ddn-putain-encore-la-chance",
+    TITLE="DDN putain, encore la chance"
+  }
+  {
+    FILE="ddn-vousvoulez-pas-savoir-ce-qui-se-trouve-dans-cette-salle",
+    TITLE="DDN Vous voulez pas savoir ce qu'il y a dans cette salle? NON MERCI"
+  }
+  {
+    FILE="ddn-la-magicienne-gagne-un-niveau",
+    TITLE="DDN La magicienne gagne un niveau"
+  }
+  {
+    FILE="ddn-je-sens-vnir-le-tas-de-cendre",
+    TITLE="DDN Je sens venir le tas de cendre"
+  }
+  {
+    FILE="ddn-le-barbare-gagne-un-niveau",
+    TITLE="DDN La barbare gagne un niveau"
+  }
+  {
+    FILE="ddn-chaussettte",
+    TITLE="DDN Chaussette !"
+  }
+  {
+    FILE="ddn-scie-la-jambe-avec-cuillere-a-soupe",
+    TITLE="DDN Je vais lui scier la jambe avec une cuillère à soupe"
+  }
+  {
+    FILE="ddn-si-on-senffuie-lache-et-pauvre",
+    TITLE="DDN Si on s'enfuie, on sera lache, ett en plus on sera pauvre"
+  }
+  {
+    FILE="ddn-le-tapis-est-horrible",
+    TITLE="DDN Vous avez vu comme le tapis est horrible?"
+  }
+  {
+    FILE="ddn-elle-a-tire-une-fleche-dans-loeil-unique-du-golem-tire-dans-la-jambe",
+    TITLE="DDN Elle a tiré une flèche dans l'oeil unique du golem. J'essayais de lui tirer dans la jambe"
+  }
+  {
+    FILE="ddn-l-elfe-ouvre-ses-boutons-du-haut-khrom",
+    TITLE="DDN Ta poitrine a augmentée. Ah, je vais ouvrir un ou deux boutons du haut, et voilà. Crôm !"
+  }
+  {
+    FILE="ddn-a-force-de-dire-des-conneries-tes-xp-sont-dans-les-négatifs",
+    TITLE="DDN A force de dire des conneries, tes xp sont certainement dans les négatifs"
+  }
 }
