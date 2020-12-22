@@ -2862,5 +2862,357 @@ KAAMELOL_CONTENT = {
   {
     FILE="mais-oui-cest-clair-by-eddy-malou",
     TITLE="Eddy malou: mais oui c'est clair"
+  },
+  {
+    FILE="ddn-voleurs-boudins",
+    TITLE="DDN Ici furent pendus 287 voleurs de boudins"
+  },
+  {
+    FILE="ddn-plaisanter-avec-les-boudins",
+    TITLE="DDN On ne plaisante pas avec les boudins par ici. Tu veux dire qu'on peut pas blaguer avec l'elfe?"
+  },
+  {
+    FILE="ddn-meilleurs-amis-voleur",
+    TITLE="DDN Comme j'étais le meilleur amis du voleur, c'est moi qui prends sa part"
+  },
+  {
+    FILE="ddn-lheure-du-diner",
+    TITLE="DDN Akala Miam-Miam. Il dit que c'est... Il dit que c'est l'heure du diner on a compris"
+  },
+  {
+    FILE="ddn-cruche-elfe",
+    TITLE="DDN Nous serions bien plus a l'aise dans l'auberge, avec une bonne cruche. Mais on est déjà avec l'elfe"
+  },
+  {
+    FILE="ddn-fermez-la",
+    TITLE="DDN Fermez-là"
+  },
+  {
+    FILE="ddn-frappe-qqun",
+    TITLE="DDN ça m'énerve, il faut que je frappe quelqu'un"
+  },
+  {
+    FILE="dnn-trouve-qui-frapper",
+    TITLE="DDN J'ai trouvé qui je vais frapper"
+  },
+  {
+    FILE="ddn-je-viens-avec-vous",
+    TITLE="DDN Puisque vous insistez, je viens avec vous. Mais personne n'a insisté. tant mieux"
+  },
+  {
+    FILE="ddn-35-tavernes",
+    TITLE="DDN Une ville de 500 habitants. ça fait au moins 35 tavernes"
+  },
+  {
+    FILE="ddn-sorcier-esprit-tordu",
+    TITLE="DDN C'est un sorcier, il a l'esprit tordu"
+  },
+  {
+    FILE="ddn-gland",
+    TITLE="DDN pour ce qui est des glands j'en ai au moins trouvé 1"
+  },
+  {
+    FILE="ddn-ennuie-emmerde-elfe",
+    TITLE="DDN Quand je m'ennuie faut que j'emmerde l'elfe"
+  },
+  {
+    FILE="ddn-blague-vide",
+    TITLE="DDN Ta blague est aussi vide que le néant qui sépare tes oreilles"
+  },
+  {
+    FILE="ddn-gros-bras-pas-dhumour",
+    TITLE="DDN Toi t'as des gros bras mais t'as pas d'humour. Aie. J'avais raison, tu vois!"
+  },
+  {
+    FILE="ddn-bottes-naines",
+    TITLE="DDN Moi j'ai des bottes naines. Elles sont très bien pour botter le cul des elfes"
+  },
+  {
+    FILE="ddn-chaud-faim-soif-mal-tete",
+    TITLE="DDN J'ai chaud. J'ai soif. J'ai faim. J'ai mal à la tête"
+  },
+  {
+    FILE="ddn-chanter-sur-la-colline",
+    TITLE="DDN Ce serait bien si t'allais chanter sur la colline, là-bas. Ouais"
+  },
+  {
+    FILE="ddn-offrir-son-corps-a-la-nature",
+    TITLE="DDN C'est bon d'offrir son corps à la nature. Moi jsuis plutot de nature à m'offrir son corps"
+  },
+  {
+    FILE="ddn-territoire-vieux-Gildas",
+    TITLE="DDN Que venez vous faire sur le territoire du vieux Gildas?"
+  },
+  {
+    FILE="ddn-chier-un-sablier",
+    TITLE="DDN C'est bon vous allez pas nous en chier un sablier"
+  },
+  {
+    FILE="ddn-6h-30",
+    TITLE="DDN Il est 6h30 du matin, et tout va bien"
+  },
+  {
+    FILE="ddn-pti-dej-barbare",
+    TITLE="DDN ça c'est ce qu'on appelle un petit dejeuner barbare"
+  },
+  {
+    FILE="ddn-troll-collines-berserk",
+    TITLE="DDN C'est un troll géant des collines Berserk. ça change quoi? ton esperance de vie banane!"
+  },
+  {
+    FILE="ddn-catapulte",
+    TITLE="DDN On pourrait fabriquer une catapulte"
+  },
+  {
+    FILE="ddn-pris-une-fleche",
+    TITLE="DDN Tu t'es pris une fleche. Comment ça? le troll n'avait pas d'arc"
+  },
+  {
+    FILE="ddn-fait-mal-si-jappuye-la",
+    TITLE="DDN ça fait mal si j'appuye la? Aie. Mais t'es con"
+  },
+  {
+    FILE="ddn-8000po-divise-par-6",
+    TITLE="DDN Alors, 8000 pièces d'or divisé par 6... Mais faites donc taire ce nain"
+  },
+  {
+    FILE="ddn-bande-de-gnouf",
+    TITLE="DDN Salut bande de gnouf"
+  },
+  {
+    FILE="ddn-accent",
+    TITLE="DDN Ici on parle comme ça, c'est toi qui a un accent et pas moi"
+  },
+  {
+    FILE="ddn-quebecois-peter-la-gueule",
+    TITLE="DDN (accent québecois) Jvous aurais tous pété la gueule en sang"
+  },
+  {
+    FILE="ddn-retirer-tes-vetements",
+    TITLE="DDN Peut-etre que t'aurais du encore retirer tes vêtements"
+  },
+  {
+    FILE="ddn-gens-morts-volcan",
+    TITLE="DDN On dirait un truc pour mettre les gens quand ils sont morts. Une crypte? un mausolée? Un volcan?"
+  },
+  {
+    FILE="ddn-moriaki",
+    TITLE="DDN Ce sont des hiéroglyphes mortuaires de Moriaki"
+  },
+  {
+    FILE="ddn-ci-git-Archein",
+    TITLE="DDN Ci-gît Archein Von Drekkeneov, prince de Moriaki, chevalier de l'ordre de la Wyverne"
+  },
+  {
+    FILE="ddn-enterre-endroit-aussi-perdu",
+    TITLE="DDN ça m'étonnerais qu'on enterre un type normal dans un endroit aussi perdu"
+  },
+  {
+    FILE="ddn-morts-cest-pas-dangereux",
+    TITLE="DDN Les morts c'est pas dangereux. ça dépend, des fois ils sont vivants"
+  },
+  {
+    FILE="ddn-bonsoir",
+    TITLE="DDN Bonsoir, je vous attendais"
+  },
+  {
+    FILE="ddn-ouvrir-propre-porte",
+    TITLE="DDN Je frappe rarement pour ouvrir mon propre porte"
+  },
+  {
+    FILE="ddn-chateau-depasse-sol",
+    TITLE="DDN Ce n'est pas une crypte, c'est une chatetau. Normalement un chateau, ça dépasse du sol."
+  },
+  {
+    FILE="ddn-gueles-dendives",
+    TITLE="DDN Ah putain, les gueules d'endives"
+  },
+  {
+    FILE="ddn-prince-de-mes-fesses",
+    TITLE="DDN Il est prince de quoi si le royaume a disparu? de mes fesses"
+  },
+  {
+    FILE="ddn-un-vampire",
+    TITLE="DDN C'est un vampire. un vampire? un vampire? un vampire?"
+  },
+  {
+    FILE="ddn-vous-voila",
+    TITLE="DDN (Archein von drekkenov) Vous voilà !"
+  },
+  {
+    FILE="ddn-jimprovise",
+    TITLE="DDN T'as encore tué un innocent. Ohé, moi, j'improvise"
+  },
+  {
+    FILE="ddn-a-tes-souhaits",
+    TITLE="DDN A tes souhaites. Crève"
+  },
+  {
+    FILE="ddn-tamponne-loreil",
+    TITLE="DDN Je m'en tamponne l'oreil avec une babouche"
+  },
+  {
+    FILE="ddn-cueillir-framboises",
+    TITLE="DDN On pourrait cueillir des framboises, et coiffer des poneys"
+  },
+  {
+    FILE="ddn-2-21-Gigowatts",
+    TITLE="DDN 2,21 Gigowatts ?"
+  },
+  {
+    FILE="ddn-cest-con-une-chevre",
+    TITLE="DDN C'est con une chèvre"
+  },
+  {
+    FILE="ddn-au-rat-degout-lubrique",
+    TITLE="DDN Au rat d'égout lubrique"
+  },
+  {
+    FILE="ddn-boisson-dhomme",
+    TITLE="DDN Faut admettre, c'est plutot une boisson d'homme"
+  },
+  {
+    FILE="ddn-construire-trebuchet",
+    TITLE="DDN Je sais, on pourrait construire un trebuchet pendant que l'ogre va chercher des grosses pierres"
+  },
+  {
+    FILE="ddn-apprivoiser-une-belette",
+    TITLE="DDN Moi je pense qu'on devrait apprivoiser une belette"
+  },
+  {
+    FILE="ddn-meuler-sa-face",
+    TITLE="DDN Si il avait pas fait 2m12 et qu'il avait pas 3 copains, je lui aurais meulé sa face"
+  },
+  {
+    FILE="ddn-va-coiffer-ta-mere",
+    TITLE="DDN Va coiffer ta mère. Ma mère se coiffe très bien toute seule. Connasse. Crevure"
+  },
+  {
+    FILE="ddn-palpitant",
+    TITLE="DDN ça a l'air paliptant dites donc"
+  },
+  {
+    FILE="ddn-pas-besoin-paladin",
+    TITLE="DDN Et puis on a pas besoin de paladin"
+  },
+  {
+    FILE="ddn-hommes-navets",
+    TITLE="DDN Mais on ne sait meme pas qui sont les hommes navets"
+  },
+  {
+    FILE="ddn-234-coups-de-pieds",
+    TITLE="DDN Après 234 coups de pieds bien placés"
+  },
+  {
+    FILE="ddn-ramasser-les-boulets",
+    TITLE="DDN On a vraiment du talent pour ramasser les boulets"
+  },
+  {
+    FILE="ddn-frapper-poireaux",
+    TITLE="DDN Moi ça m'énerve, je vais retourner frapper le poireau géant"
+  },
+  {
+    FILE="ddn-arriver-niveau2",
+    TITLE="DDN Faudrait déjà que certains arrivent au niveau 2"
+  },
+  {
+    FILE="ddn-pleonasme",
+    TITLE="DDN Des elfes maléfiques? ca fait un peu pléonasme"
+  },
+  {
+    FILE="ddn-poupee",
+    TITLE="DDN (le nain joue avec la poupée)"
+  },
+  {
+    FILE="ddn-ours-deltaplane",
+    TITLE="DDN Bah qui ttu veux que ce soit? un ours en deltaplane?"
+  },
+  {
+    FILE="ddn-ortils",
+    TITLE="DDN Alors, vous allez me rendre mes fringues? il y a des ortils qui me grattent le cul"
+  },
+  {
+    FILE="ddn-chiantos",
+    TITLE="DDN Dis-donc tu m'a piqué mes chiantos"
+  },
+  {
+    FILE="ddn-on-fait-des-gaufres",
+    TITLE="DDN Bon alors on fait quoi? bah on fait des gaufres"
+  },
+  {
+    FILE="ddn-jaime-la-baston",
+    TITLE="DDN J'aime la baston, écraser ses ennemis, les voir mourrir devant soi"
+  },
+  {
+    FILE="ddn-des-poneys-sauvages",
+    TITLE="DDN On pourrait voir, des poneys sauvages... Ou des castors mutants qui crachent de l'acide par les yeux"
+  },
+  {
+    FILE="ddn-direction-elfe",
+    TITLE="DDN On demande la direction à l'elfe, puis nous on prend l'autre. On est sur de pas se planter"
+  },
+  {
+    FILE="ddn-tout-est-regle",
+    TITLE="DDN Je vois que tout est réglé. Bande de cons"
+  },
+  {
+    FILE="ddn-aucun-probleme",
+    TITLE="DDN Aucun problèèème"
+  },
+  {
+    FILE="ddn-cadeaux-des-elfes",
+    TITLE="DDN (liste des cadeaux des elfes) boite à sucre, souliers magiques, épée gonflable de kasimir, les 6 fourchettes du calamar catcheur,les skis nautiques de la dame du lac"
+  },
+  {
+    FILE="ddn-refile-toutets-leurs-merdes",
+    TITLE="DDN Ils vous ont refilé toutes leurs merdes"
+  },
+  {
+    FILE="ddn-flip",
+    TITLE="DDN J'avais dis Flip"
+  },
+  {
+    FILE="ddn-gonfler-la-rate",
+    TITLE="DDN Vous commencez à me gonfler la rate. T'as déjà dis ça il y a une heure. Et alors ?"
+  },
+  {
+    FILE="ddn-coallission-des-glandus",
+    TITLE="DDN C'est la coallission des glandus"
+  },
+  {
+    FILE="ddn-prenne-decisions",
+    TITLE="DDN Faut bien que quelqu'un prenne des décisions. Ouais, mais pas systématiquement des mauvaises"
+  },
+  {
+    FILE="ddn-competence-perdus",
+    TITLE="DDN Tu sais ce qu'elles te disent mes compétences? Elles disent qu'on est perdu"
+  },
+  {
+    FILE="ddn-pieds-au-cul",
+    TITLE="DDN Mon pieds au cul  il va pas être perdu lui"
+  },
+  {
+    FILE="ddn-lache-nous-la-bourse",
+    TITLE="DDN Lache nous la bourse avec tes définitions"
+  },
+  {
+    FILE="ddn-baltringue",
+    TITLE="DDN C'est quoi un baltringue? C'est un truc entre un abruti et un connard"
+  },
+  {
+    FILE="ddn-on-va-prouver-au-monde",
+    TITLE="DDN Je vais vous dire ce qu'on va faire, on va prouver au monde qu'on est une compagnie d'aventuriers valables. J'en ai les sourcils qui frémissent"
+  },
+  {
+    FILE="ddn-timbree",
+    TITLE="DDN Mais elle est timbrée cette gourdasse"
+  },
+  {
+    FILE="ddn-equiper-les-mouffles",
+    TITLE="DDN Equiper les moufles à 3 doigts. On utilise l'arc pour tuer des moineaux. ... Puis on se pend avec la corde puisqu'on est perdu et qu'on est ridicule "
+  },
+  {
+    FILE="ddn-vert-zwifi",
+    TITLE="DDN Pousser la manette de couleur vert zwifi. C'est quoi le vert zwifi? La rouge"
   }
 }
